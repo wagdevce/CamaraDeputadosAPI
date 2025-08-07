@@ -4,9 +4,6 @@
 
 Este projeto oferece uma API robusta e um backend analítico para extrair, processar e servir dados complexos da Câmara dos Deputados, com foco especial nas atividades do ano de 2024. Nossa missão é transformar dados brutos e de difícil acesso em insights claros e compreensíveis para qualquer cidadão.
 
-Vídeo no Youtube explicando o projeto: https://youtu.be/KikydU9HogU?si=XTwK8__SgF_kAhPV
------
-
 ## 📜 Índice
 
 1.  [**Objetivos do Projeto**](#objetivos-do-projeto)
